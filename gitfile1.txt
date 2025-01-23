@@ -1,3 +1,5 @@
 This is our first VCS CLASS
 we want to perform a merge 
 git is great!!
+WE ARE LEARNING NEW 
+
