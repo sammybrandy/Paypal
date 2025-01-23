@@ -1,1 +1,2 @@
 This is our first VCS CLASS
+we want to perform a merge 
